@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Asif Alam</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=measifalam&label=Profile%20views&color=0e75b6&style=flat" alt="measifalam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=measifalam" alt="measifalam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/idio_asif" target="blank"><img src="https://img.shields.io/twitter/follow/idio_asif?logo=twitter&style=for-the-badge" alt="idio_asif" /></a> </p>
 
@@ -44,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=measifalam&show_icons=true&locale=en" alt="measifalam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=measifalam&" alt="measifalam" /></p>
+
