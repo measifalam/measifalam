@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/working-with-a-laptop.png" width="20"/> 🔭 I’m currently working on **Bing Whole Page Relevance in HCL Technologies Team**<br>
+  <img src="https://img.icons8.com/color/48/000000/working-with-a-laptop.png" width="20"/> 🔭 I’m currently working on **A finance Full Stack Development Application at LTIMindTree**<br>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> 🌱 I’m currently learning **React And TypeScript**<br>
   <img src="https://img.icons8.com/color/48/000000/project.png" width="20"/> 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/measifalam?tab=repositories)<br>
   <img src="https://img.icons8.com/color/48/000000/medium.png" width="20"/> 📝 I regularly write articles on [Medium](https://medium.com/@measifalam)<br>
@@ -54,6 +54,7 @@
       <tr>
         <th style="border: 1px solid #ddd; padding: 8px;">Project Name</th>
         <th style="border: 1px solid #ddd; padding: 8px;">Tech Stack</th>
+
       </tr>
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/your-username/backend-project-1">Backend Project 1</a></td>
