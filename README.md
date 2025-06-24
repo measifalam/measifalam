@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Md Asif Alam</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -8,111 +9,110 @@
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/working-with-a-laptop.png" width="20"/> 🔭 I’m currently working on **A finance Full Stack Development Application at LTIMindTree**<br>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> 🌱 I’m currently learning **React And TypeScript**<br>
-  <img src="https://img.icons8.com/color/48/000000/project.png" width="20"/> 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/measifalam?tab=repositories)<br>
-  <img src="https://img.icons8.com/color/48/000000/medium.png" width="20"/> 📝 I regularly write articles on [Medium](https://medium.com/@measifalam)<br>
-  <img src="https://img.icons8.com/color/48/000000/ask-question.png" width="20"/> 💬 Ask me about **Anything about Technologies**<br>
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20"/> 📫 How to reach me **measifalam@gmail.com**<br>
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/md-asif-alam-aa9463126/)
+  <img src="https://img.icons8.com/color/48/000000/working-with-a-laptop.png" width="20"/> 🔭 I’m currently working on <strong>A finance Full Stack Development Application at LTIMindTree</strong><br>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> 🌱 I’m currently learning <strong>React And TypeScript</strong><br>
+  <img src="https://img.icons8.com/color/48/000000/project.png" width="20"/> 👨‍💻 All of my projects are available at <a href="https://github.com/measifalam?tab=repositories">My GitHub Repositories</a><br>
+  <img src="https://img.icons8.com/color/48/000000/medium.png" width="20"/> 📝 I regularly write articles on <a href="https://medium.com/@measifalam">Medium</a><br>
+  <img src="https://img.icons8.com/color/48/000000/ask-question.png" width="20"/> 💬 Ask me about <strong>Anything about Technologies</strong><br>
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20"/> 📫 How to reach me <strong>measifalam@gmail.com</strong><br>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> 📄 Know about my experiences <a href="https://www.linkedin.com/in/md-asif-alam-aa9463126/">LinkedIn</a>
 </p>
 
-### Languages and Tools:
-<p align="left"> 
-<!-- Icons here -->
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/FHIR-005EB8?style=for-the-badge&logo=fhir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Application%20Insights-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUnit-8A2BE2?style=for-the-badge&logo=nunit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Agility%20Pack-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/XPath-FF6F00?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%20DOM-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
-### Projects
+### 🚀 Projects Showcase
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <!-- Frontend Projects -->
-  <div style="flex: 1; margin-right: 10px;">
-    <h4>Frontend Projects</h4>
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <th style="border: 1px solid #ddd; padding: 8px;">Project Name</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">Tech Stack</th>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://measifalam-vanilla-crud.netlify.app">Javascript CRUD</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;"> HTML, CSS, Vanilla Javascript, Local Storage 
-      </tr>
-    </table>
-  </div>
+#### 🖼️ Frontend Projects
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Project Name</th>
+    <th>Code</th>
+    <th>Live UI</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Javascript CRUD</td>
+    <td><a href="https://github.com/measifalam/javascript-crud">GitHub</a></td>
+    <td><a href="https://measifalam-vanilla-crud.netlify.app">Live</a></td>
+  </tr>
+</table>
 
+#### 🛠️ Backend Projects
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Project Name</th>
+    <th>Code</th>
+    <th>UI</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Node Auth API</td>
+    <td><a href="https://github.com/measifalam/backend-project-1">GitHub</a></td>
+    <td><em>API Only</em></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>ASP.NET Core API</td>
+    <td><a href="https://github.com/measifalam/backend-project-2">GitHub</a></td>
+    <td><em>API Only</em></td>
+  </tr>
+</table>
 
-
-
-  
-
-  <!-- Backend Projects -->
-  <div style="flex: 1; margin-right: 10px;">
-    <h4>Backend Projects</h4>
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <th style="border: 1px solid #ddd; padding: 8px;">Project Name</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">Tech Stack</th>
-
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/your-username/backend-project-1">Backend Project 1</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;">Node.js, Express, MongoDB</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/your-username/backend-project-2">Backend Project 2</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;">ASP.NET Core, SQL Server</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/your-username/backend-project-3">Backend Project 3</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;">Java, Spring Boot, MySQL</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/your-username/backend-project-4">Backend Project 4</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;">PHP, Laravel, MariaDB</td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- SQL Server Projects -->
-  <div style="flex: 1;">
-    <h4>SQL Server Projects</h4>
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <th style="border: 1px solid #ddd; padding: 8px;">Project Name</th>
-        <th style="border: 1px solid #ddd; padding: 8px;">Tech Stack</th>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/your-username/sql-project-1">SQL Server Project 1</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;">SQL Server, T-SQL</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/your-username/sql-project-2">SQL Server Project 2</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;">SQL Server, SSIS</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/your-username/sql-project-3">SQL Server Project 3</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;">SQL Server, SSRS</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/your-username/sql-project-4">SQL Server Project 4</a></td>
-        <td style="border: 1px solid #ddd; padding: 8px;">SQL Server, Azure SQL</td>
-      </tr>
-    </table>
-  </div>
-</div>
+#### 🌐 Full Stack Projects
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Project Name</th>
+    <th>Code</th>
+    <th>Live UI</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Finance Tracker</td>
+    <td><a href="https://github.com/measifalam/fullstack-finance-app">GitHub</a></td>
+    <td><a href="https://finance-app-asif.netlify.app">Live</a></td>
+  </tr>
+</table>
 
 ---
 
-### GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=measifalam&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&hide_border=true&theme=github_dark" alt="measifalam" />
 </p>
 
 ---
 
-### Top Languages:
+### 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=measifalam&hide_title=true&layout=compact&hide_border=true&theme=github_dark" alt="measifalam" />
 </p>
