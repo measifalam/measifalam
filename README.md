@@ -10,9 +10,9 @@
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/working-with-a-laptop.png" width="20"/> 🔭 I’m currently working on <strong>A finance Full Stack Development Application at LTIMindTree</strong><br>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> 🌱 I’m currently learning <strong>React And TypeScript</strong><br>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> 🌱 I’m currently learning <strong>Angular and Azure</strong><br>
   <img src="https://img.icons8.com/color/48/000000/project.png" width="20"/> 👨‍💻 All of my projects are available at <a href="https://github.com/measifalam?tab=repositories">My GitHub Repositories</a><br>
-  <img src="https://img.icons8.com/color/48/000000/medium.png" width="20"/> 📝 I regularly write articles on <a href="https://medium.com/@measifalam">Medium</a><br>
+  <img src="https://img.icons8.com/color/48/000000/medium.png" width="20"/> 📝 I regularly write articles on <a href="https://hashnode.com/@Measifalam">HashNode</a><br>
   <img src="https://img.icons8.com/color/48/000000/ask-question.png" width="20"/> 💬 Ask me about <strong>Anything about Technologies</strong><br>
   <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20"/> 📫 How to reach me <strong>measifalam@gmail.com</strong><br>
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/> 📄 Know about my experiences <a href="https://www.linkedin.com/in/md-asif-alam-aa9463126/">LinkedIn</a>
